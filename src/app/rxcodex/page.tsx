@@ -18,7 +18,7 @@ export default function RxCodexPage() {
             Rx Codex
           </h1>
           <p className="text-lg font-medium text-accent mb-4">
-            Founder & AI Architect
+            Company
           </p>
           <p className="text-sm text-muted-foreground mb-8 leading-relaxed">
             Sorry user, we don't have any LinkedIn account
